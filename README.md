@@ -51,10 +51,19 @@ src
         └── application.properties  # Configuration file
 ```
 
+## Detailed API documentation using swagger UI.
+
+Swagger UI: 
+```
+http://localhost:8080/q/swagger-ui
+```
+
+OpenAPI JSON spec: 
+```
+http://localhost:8080/q/openapi
+```
+
 ## Useful Links
-```
-https://github.com/quarkusio/quarkus
-```
 
 Quarkus GitHub Repository
 ```
